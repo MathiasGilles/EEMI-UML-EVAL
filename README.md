@@ -5,7 +5,7 @@
 **Durée :** une journée  
 **Technologies :** outil de modélisation UML au choix  
 **Livrable principal :** dossier de conception UML accompagné de justifications écrites
-
+**Email:** mathiasgilles136@gmail.com
 ---
 
 ## 1. Contexte
