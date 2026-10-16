@@ -4,7 +4,7 @@
 
 **Type de travail :** individuel  
 
-**Durée :** une journée  
+**Rendue :** Dimanche 18 octobre à minuit max
 
 **Technologies :** outil de modélisation UML au choix  
 
